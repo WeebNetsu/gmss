@@ -18,3 +18,4 @@ fi
 # allow user to select js lib (svelt, vue, react etc.)
 # allow user to choose between typescript template or normal js
 # add MUI meteor npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+# add alanning:roles typings to project
